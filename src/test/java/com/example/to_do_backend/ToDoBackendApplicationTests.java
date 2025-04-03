@@ -10,4 +10,8 @@ class ToDoBackendApplicationTests {
 	void contextLoads() {
 	}
 
+	@Test
+	void testFunction(){
+
+	}
 }
